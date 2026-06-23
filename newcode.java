@@ -7,7 +7,8 @@ public class newcode {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.println(a+b);
+        int c = a+b;
+        System.out.println(c);
 
     }
 }
